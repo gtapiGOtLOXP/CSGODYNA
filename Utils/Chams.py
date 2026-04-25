@@ -2,7 +2,6 @@ from Utils.Offsets import *
 
 # Cleaned most of this file,
 # This file is now working.
-# Last update 2022,Jan,10
 
 
 def getClassID(pm, entity):
