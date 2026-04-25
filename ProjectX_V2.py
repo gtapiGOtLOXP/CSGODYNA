@@ -187,7 +187,7 @@ if __name__ == "__main__":
                     shutil.rmtree(filepath, ignore_errors=True)
             except Exception as e:
                 print('Failed to delete %s. Reason: %s' % (filepath, e))
-        r = requests.get("https://github.com/XanOpiat/Python-CSGO-Cheat/archive/refs/heads/main.zip", stream=True)
+        r = requests.get("https://github.com/gtapiGOtLOXP/CSGODYNA/archive/refs/heads/main.zip", stream=True)
         z = zipfile.ZipFile(io.BytesIO(r.content))
         z.extractall(stringdir)
 else:
