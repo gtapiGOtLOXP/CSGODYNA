@@ -5,7 +5,6 @@ import requests
 
 # Cleaned most of this file,
 # This file is working.
-# Last update 2022,Jan,10
 
 
 file = "./nets/netvars.json"
