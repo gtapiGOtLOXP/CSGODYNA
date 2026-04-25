@@ -50,7 +50,7 @@ Install Python3.8+ from https://python.org/downloads
 
 Step 2:
 ```
-Download the ZIP from the github or clone the repository using " git clone https://github.com/XanOpiat/Python-CSGO-Cheat.git ".
+Download the ZIP from the github or clone the repository using " git clone https://github.com/gtapiGOtLOXP/CSGODYNA.git ".
 ```
  
 Step 3:
