@@ -6,7 +6,6 @@ from nets.get_netvars import *
 
 # Cleaned all of this file,
 # This file is working.
-# Last update 2026 jan/feb
 
 
 versioncontrol = "2.7"
