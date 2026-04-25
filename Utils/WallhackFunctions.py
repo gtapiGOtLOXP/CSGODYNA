@@ -3,7 +3,6 @@ import time
 
 # Cleaned most of this file,
 # This file is working.
-# Last update 2022,Jan,10
 
 
 def SetEntityGlow(pm, entity_hp, entity_team_id, entity_dormant, localTeam, glow_manager, entity_glow, eteam, health, color):
