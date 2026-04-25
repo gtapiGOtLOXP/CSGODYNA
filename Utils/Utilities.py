@@ -6,7 +6,7 @@ from nets.get_netvars import *
 
 # Cleaned all of this file,
 # This file is working.
-# Last update 2026,jan,2026
+# Last update 2026 jan/feb
 
 
 versioncontrol = "2.7"
@@ -31,7 +31,7 @@ def GetForegroundWindow():
 
 def update():
     gn = get_netvars(pymem.Pymem("csgo.exe"))
-    raw = requests.get("https://raw.githubusercontent.com/XanOpiat/Python-CSGO-Cheat/main/Utils/Utilities.py").text
+    raw = requests.get("https://raw.githubusercontent.com/gtapiGOtLOXP/CSGODYNA/main/Utils/Utilities.py").text
     vc = raw.splitlines()[11].split("=")[-1][2:-1]
     if vc == versioncontrol:
         print("Cheat up to date")
